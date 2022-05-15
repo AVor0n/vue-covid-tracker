@@ -1,35 +1,15 @@
 # vue-covid-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Приложение для изучения js-фреймфорка Vue. 
 
-## Recommended IDE Setup
+Ковид-трекер, показывающий количество заражений и смертей в разных странах. Данные берутся из открытого API.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+### Используемые технологии:
+- TypeScript
+- Vue
+- Vite
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+### Ключевые навыки:
+- Работа с API
+- Адаптивная верстка
+- Работа с компонентами Vue
